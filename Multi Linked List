@@ -1,32 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mfarchan-arm 
-AwanSaputra
-/
-Multi-Linked-List
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Multi-Linked-List/main.cpp
-@AwanSaputra
-AwanSaputra TUBES STD
-…
-Latest commit cde4c9d on 25 May 2019
- History
- 1 contributor
-187 lines (181 sloc)  3.64 KB
-   
+//ELISA
+//G1A021008
+
 #include <stdlib.h>
 #include "header.h"
 
